@@ -43,7 +43,7 @@ get '/' do
         username: "marlin_peppa",
         text: "lunchtime! ;)"
      }]
-    }
+
     [@finstagram_post_shark, @finstagram_post_whale, @finstagram_post_marlin].to_s
 
 erb(:index)
