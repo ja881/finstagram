@@ -17,8 +17,7 @@ get '/' do
     comments: [{
         username: "sharky_j",
         text: "Out for the long weekend...too embarassed to show y'all the beach bod!"
-   
-   }]
+    }]
    }
     @finstagram_post_whale = {
         username: "kirk_whalum",
